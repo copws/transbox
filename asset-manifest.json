@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/transbox/static/css/main.2154477d.css",
-    "main.js": "/transbox/static/js/main.f88a1994.js",
+    "main.js": "/transbox/static/js/main.4d0e70de.js",
     "index.html": "/transbox/index.html",
     "main.2154477d.css.map": "/transbox/static/css/main.2154477d.css.map",
-    "main.f88a1994.js.map": "/transbox/static/js/main.f88a1994.js.map"
+    "main.4d0e70de.js.map": "/transbox/static/js/main.4d0e70de.js.map"
   },
   "entrypoints": [
     "static/css/main.2154477d.css",
-    "static/js/main.f88a1994.js"
+    "static/js/main.4d0e70de.js"
   ]
 }
