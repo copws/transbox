@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transbox/static/css/main.2154477d.css",
+    "main.js": "/transbox/static/js/main.e454eb26.js",
+    "index.html": "/transbox/index.html",
+    "main.2154477d.css.map": "/transbox/static/css/main.2154477d.css.map",
+    "main.e454eb26.js.map": "/transbox/static/js/main.e454eb26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2154477d.css",
+    "static/js/main.e454eb26.js"
+  ]
+}
